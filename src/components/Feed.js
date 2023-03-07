@@ -6,10 +6,10 @@ import Navbar from "./Navbar";
 import Badges from "./Badges";
 const accessToken = "0d76464f-bdfc-4271-a7f7-71ba8cc3136a";
 // import InfoBar from "./InfoBar";
-const content1 = {
-  width: "10px",
-  paddingTop: "10px",
-};
+// const content1 = {
+//   width: "10px",
+//   paddingTop: "10px",
+// };
 const feed = {
   paddingTop: "100px",
 };
@@ -26,6 +26,7 @@ const content2 = {
   // display: "none",
   display: "flex",
   flexDirection: "column",
+  // eslint-disable-next-line no-dupe-keys
   marginLeft: "30px",
   backgroundColor: "grey",
 };
@@ -50,6 +51,7 @@ const content = {
   padding: "10px",
   // eslint-disable-next-line no-dupe-keys
   textAlign: "center",
+  // eslint-disable-next-line no-dupe-keys
   backgroundColor: "#D3D3D3",
 
   // marginTop: "100px",
