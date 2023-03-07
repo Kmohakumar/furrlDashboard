@@ -33,7 +33,7 @@ const content2 = {
 
 const ordersMap = {
   display: "flex",
-  gridTemplateColumns: " 200px 300px 100px 100px 200px 10px",
+  // gridTemplateColumns: " 200px 300px 100px 100px 200px 10px",
   padding: "10px",
   // rowgap: "20px"
   marginLeft: "auto",
