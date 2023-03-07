@@ -17,6 +17,7 @@ const contents={
     marginRight: "70px" ,
     color:"white",
     padding: "5px",
+    // eslint-disable-next-line no-dupe-keys
     marginRight:"10px"
     
 }
